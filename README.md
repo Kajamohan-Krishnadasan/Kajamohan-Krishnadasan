@@ -33,8 +33,8 @@
 </p>
 
 <p>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kajamohan-Krishnadasan&show_icons=true&locale=en&layout=compact" alt="Kajamohan-Krishnadasan" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kajamohan-Krishnadasan&show_icons=true&locale=en&layout=compact" alt="Kajamohan-Krishnadasan" />
+   
 </p>
 
 <p> 
