@@ -2,11 +2,11 @@
 
 ## About me 👨‍💻
 
-### ✨ Final year Computer Engineering Undergraduate, at Department of Computer Engineering, University of Jaffna
+### ✨ Completed My Computer Engineering Undergraduate, at University of Jaffna
 
 ### 💞 I am interested in Mobile, Web app development and Machine Learning
 
-### 🌱 Currently working as an Software Engineer (Front-End) intern
+### 🌱 Competed My Internship as an Software Engineer (Front-End) at Codelantic 
 
 <br />
 
