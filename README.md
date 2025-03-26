@@ -8,6 +8,7 @@
 
 ### 🌱 Competed My Internship as an Software Engineer (Front-End) at Codelantic 
 
+
 <br />
 
 ## Contact Me 📫
@@ -26,7 +27,7 @@
 <p align="left"> 
     <img src="https://skillicons.dev/icons?i=cpp,java,js,matlab,py" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,materialui,nodejs,react,sass,ts" />
+    <img src="https://skillicons.dev/icons?i=angular,nextjs,bootstrap,css,html,materialui,nodejs,react,sass,ts" />
     <br/>
     <img src="https://skillicons.dev/icons?i=arduino,figma,git,github,vscode" />
 
