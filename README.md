@@ -29,7 +29,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=angular,nextjs,bootstrap,css,html,materialui,nodejs,react,sass,ts" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=arduino,figma,git,github,vscode, postman" />
+    <img src="https://skillicons.dev/icons?i=arduino,figma,git,github,vscode,postman" />
 
 </p>
 
